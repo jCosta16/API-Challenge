@@ -10,6 +10,7 @@ My final objective was to build a series of scatter plots to showcase the follow
 * Wind Speed (mph) vs. Latitude
 
 ## Visualizations
+
 <div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/maxtemp.png" alt="maxtemp" width="49%"/><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/humidity.png" alt="humidity" width="49%"/></div>
 <div><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/cloudiness.png" alt="cloudiness" width="49.5%"/><img src="https://github.com/jCosta16/API-Challenge/blob/master/WeatherPy/output_data/wind_speed.png" alt="wind_speed.png" width="49.5%"/>
   </div>
